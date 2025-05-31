@@ -1,6 +1,0 @@
-Company,Ticker,Price_USD,Market_Cap_Billions,PE_Ratio,Last_Split_Date,Days_Since_Split,Years_Since_Split,Split_Recommendation,Price_Category,Accessibility_Score,Dividend_Yield,Price_After_10to1,Price_After_20to1
-Amazon,AMZN,3584.00,1850.0,45.2,1999-09-02,9120,25.0,YES,Very High,Low,0.0,358.40,179.20
-Netflix,NFLX,484.99,210.5,38.7,2015-07-15,3150,8.6,YES,High,Medium,0.0,48.50,24.25
-JPMorgan Chase,JPM,171.52,495.8,11.3,2000-05-15,8500,23.3,NO,Moderate,High,2.8,17.15,8.58
-Coca-Cola,KO,60.75,262.4,26.9,2012-08-13,4300,11.8,NO,Low,Very High,3.1,6.08,3.04
-Johnson & Johnson,JNJ,147.73,385.2,24.8,1996-06-12,10200,28.0,NO,Moderate,High,3.2,14.77,7.39
