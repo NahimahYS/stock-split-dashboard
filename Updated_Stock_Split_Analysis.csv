@@ -1,6 +1,6 @@
 Company,Ticker,Price_USD,Market_Cap_Billions,PE_Ratio,Last_Split_Date,Days_Since_Split,Years_Since_Split,Split_Recommendation,Price_Category,Accessibility_Score,Dividend_Yield,Price_After_10to1,Price_After_20to1
-Apple Inc.,AAPL,199.95,3000.0,30.32,8/31/2020,1735,4.75,No,Optimal,High,0.52,19.995,9.9975
-Microsoft Corporation,MSFT,460.36,3400.0,35.45,2/18/2003,8132,22.28,Monitor - Consider Split,Elevated,Moderate,0.72,46.036,23.018
-Johnson & Johnson,JNJ,153.58,369.5,16.39,6/13/2001,8753,23.97,No,Optimal,High,3.39,15.358,7.679
-Exxon Mobil Corp.,XOM,102.14,442.6,13.62,7/19/2001,8716,23.87,No,Optimal,High,3.41,10.214,5.107
-Costco Wholesale Corp.,COST,1011.0,463.6,58.89,1/14/2000,9268,25.38,Yes - Urgent 10:1 or 20:1,Too High,Very Low,0.5,101.1,50.55
+Amazon,AMZN,3584.00,1850.0,45.2,1999-09-02,9120,25.0,YES,Very High,Low,0.0,358.40,179.20
+Netflix,NFLX,484.99,210.5,38.7,2015-07-15,3150,8.6,YES,High,Medium,0.0,48.50,24.25
+JPMorgan Chase,JPM,171.52,495.8,11.3,2000-05-15,8500,23.3,NO,Moderate,High,2.8,17.15,8.58
+Coca-Cola,KO,60.75,262.4,26.9,2012-08-13,4300,11.8,NO,Low,Very High,3.1,6.08,3.04
+Johnson & Johnson,JNJ,147.73,385.2,24.8,1996-06-12,10200,28.0,NO,Moderate,High,3.2,14.77,7.39
